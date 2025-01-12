@@ -1,0 +1,1 @@
+INSERT INTO `demokrati_användare` (`email`, `närvarade_sm`) SELECT 'template_email', 0 FROM dual WHERE (NOT EXISTS (SELECT `email` FROM `demokrati_användare` WHERE `email`='template_email'));

@@ -1,0 +1,1 @@
+UPDATE `demokrati_användare` SET `närvaro`= 1 WHERE `email` = "template_email";
