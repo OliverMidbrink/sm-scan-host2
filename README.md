@@ -1,8 +1,9 @@
 # Instructions
 
 ### Installation 
-* install pyzbar using this guide https://pypi.org/project/pyzbar/
-* install cv2 (opencv) using `pip install opencv-python` 
+* install pyzbar using this guide https://pypi.org/project/pyzbar/ (for mac `brew install zbar` then `pip install pyzbar`)
+* install cv2 (opencv) using `pip install opencv-python`
+* instapp keyboard using `pip install keyboard`
 
 
 ### For visitors/attendees of SM
