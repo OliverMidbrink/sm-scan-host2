@@ -14,6 +14,6 @@
 1. Clear all text files if any (they will be created upon first run)
 2. Insert ths members as kth emails without suffix in each row of the ths_members... file
 3. Run main.py as administrator i terminal to start scanning
-4. scanned and verified attendees will appear in verified_attendees.txt
+4. scanned and verified attendees will appear in verified_attendees.txt (see the scan logs if you think something was missed/or wierd, as well as scanned kth emails)
 5. All scanned kth_emails will appear in scanned_kth_emails.txt
-(6.) run auto_fill.py and click in the attencance box on demokrati.iare.one/admin page to autofill attendees
+(6.) run auto_fill.py and click in the attencance box on demokrati.iare.one/admin page to autofill attendees (this will automatically type in the attendance in demokrati admin)
